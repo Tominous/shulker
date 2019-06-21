@@ -15,11 +15,11 @@
     "IS_LOCAL_FILE": false,
     "LOCAL_FILE_PATH": "/usr/home/minecraft_server/logs/latest.log",
 
-    "ALLOW_USER_MENTIONS": false,
+    "ALLOW_USER_MENTIONS": true,
 
     "WEBHOOK": "/minecraft/hook",
     "REGEX_MATCH_CHAT_MC": "\\[Server thread/INFO\\]: <([^>]*)> (.*)",
     "REGEX_IGNORED_CHAT": "packets too frequently",
     "RCON_RECONNECT_DELAY": 10,
-    "DEBUG": false
+    "DEBUG": true
 }
